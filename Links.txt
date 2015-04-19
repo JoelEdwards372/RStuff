@@ -1,0 +1,6 @@
+http://sape.inf.usi.ch/quick-reference/ggplot2
+http://www3.nd.edu/~steve/computing_with_data/12_Scales_themes/scales_themes.html
+http://www.r-bloggers.com/my-commonly-done-ggplot2-graphs/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29
+http://docs.ggplot2.org/current/
+http://www.r-bloggers.com/ggplot2-cheatsheet-for-visualizing-distributions/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29
+https://www.udacity.com/wiki/ud651
